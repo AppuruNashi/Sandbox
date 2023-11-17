@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B48F444D-4857-F36E-CFD8-A9A865DF1CD1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SandBoxManiaCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
