@@ -12,8 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b7640bc-870a-46d1-8db9-a17378cd79e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/SandBoxMania.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SandBoxMania.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SandBoxMania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SandBoxMania/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,8 +20,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AppuruNashi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="239085c7-80c9-40dd-a1df-1f224e4d85af" />
+        <option name="url" value="https://github.com/AppuruNashi/Sandbox.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -533,8 +546,17 @@
       <updated>1700197729557</updated>
       <workItem from="1700197731070" duration="297000" />
       <workItem from="1700244731443" duration="5390000" />
-      <workItem from="1700259635174" duration="344000" />
+      <workItem from="1700259635174" duration="928000" />
     </task>
+    <task id="LOCAL-00001" summary="try to understand">
+      <option name="closed" value="true" />
+      <created>1700260087193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700260087193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,5 +579,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="try to understand" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to understand" />
   </component>
 </project>
