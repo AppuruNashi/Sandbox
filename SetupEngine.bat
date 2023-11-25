@@ -48,6 +48,7 @@ set ROOTDIR=%~dp0
 
 rm -r "%ROOTDIR%EngineSetup"
 rm "%ROOTDIR%VisualStudioSetup.exe"
+rm "%ROOTDIR%cmder.zip"
 
 attrib "%ROOTDIR%Build.bat" +h
 attrib "%ROOTDIR%Cook.bat" +h

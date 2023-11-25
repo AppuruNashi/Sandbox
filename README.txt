@@ -32,7 +32,7 @@ Add (if something is check by default don't touch it, just add missing features)
 
 After installing visual studio you can reboot your computer.
 
-Now you can execute SetupEngine.bat with a command window (I have add cmder_mini, you can unzip it to use command line, because windows built in prompt sucks)
+Now you can execute SetupEngine.bat with a command window (I have add cmder.zip, you can unzip it to use command line, because windows built in prompt sucks)
 
 ========================================
 Tutorial for command prompt : 	

@@ -13,6 +13,11 @@ echo Done ! Removing useless files and import Plugins ...
 
 rm "%ROOTDIR%UnrealEngine.zip"
 
-move "%ROOTDIR%VisualStudioTools" "%PREVIOUSDIR%UnrealEngine\Engine\Plugins\"
+echo Unzip Plugins ...
 
+tar -xf "%ROOTDIR%VisualStudioTools.zip"
+
+move "%ROOTDIR%VisualStudioTools" "%ROOTDIR%UnrealEngine\Engine\Plugins\"
+
+echo Pulgins part is done !
 echo Engine Part is done !

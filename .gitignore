@@ -14,8 +14,14 @@
 #
 
 # Ignore all files by default, but scan all directories
+
 *
 !*/
+!.gitignore
+!*.zip
+!*.vbs
+!*.lnk
+!*.
 
 # C/C++ source files
 !*.c
@@ -123,6 +129,7 @@
 !FAQ
 !VERSION
 !ChangeLog
+!*.ico
 
 # Ignore Unix backup files
 *~
