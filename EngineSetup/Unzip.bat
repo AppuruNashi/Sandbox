@@ -17,7 +17,7 @@ echo Unzip Plugins ...
 
 tar -xf "%ROOTDIR%VisualStudioTools.zip"
 
-move "%ROOTDIR%VisualStudioTools" "%ROOTDIR%UnrealEngine\Engine\Plugins\"
+move "%PREVIOUSDIR%VisualStudioTools" "%PREVIOUSDIR%UnrealEngine\Engine\Plugins\"
 
 echo Pulgins part is done !
 echo Engine Part is done !
