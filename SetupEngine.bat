@@ -22,7 +22,7 @@ echo Build SahderCompileWorker ...
 
 set ROOTDIR=%~dp0
 
-call "%ROOTDIR%UUnrealEngine\Engine\Build\BatchFiles\Build.bat" ShaderCompileWorker Win64 Development
+call "%ROOTDIR%UnrealEngine\Engine\Build\BatchFiles\Build.bat" ShaderCompileWorker Win64 Development
 
 echo Clear folder ...
 
