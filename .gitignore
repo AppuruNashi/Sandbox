@@ -17,11 +17,31 @@
 
 *
 !*/
-!.gitignore
-!*.zip
-!*.vbs
-!*.lnk
-!*.
+
+# Ignore setup files
+EngineSetup/
+cmder.zip
+SetupEngine.bat
+VisualStudioSetup.exe
+README.txt
+.gitmodules
+.gitattributes
+.gitignore
+UnrealEngine/
+Build.bat
+Cook.bat
+CookPackage.bat
+Editor.bat
+OpenEditor.lnk
+Package.bat
+PackageTest.lnk
+StartEditor.bat
+vars.bat
+Unzip.bat
+UnrealEngine.zip
+VisualStudioTools.zip
+RedirectShortcut.vbs
+BatchFiles/
 
 # C/C++ source files
 !*.c
