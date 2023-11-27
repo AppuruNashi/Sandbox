@@ -18,6 +18,10 @@
 *
 !*/
 
+# Unreal files
+!*.umap
+!*.uasset
+
 # C/C++ source files
 !*.c
 !*.cc
@@ -250,7 +254,7 @@ Engine/Binaries/Android/packageInfo.txt
 enc_temp_folder/
 
 # Ignore content folders
-Content/
+!Content/
 
 # Ignore DDC
 /Engine/DerivedDataCache/**
@@ -317,4 +321,3 @@ Unzip.bat
 UnrealEngine.zip
 VisualStudioTools.zip
 RedirectShortcut.vbs
-*/BatchFiles/
