@@ -1,7 +1,7 @@
 #pragma once
 
-#include "CoreMinimal.h"
-#include "Modules/ModuleInterface.h"
+#include "Runtime/Core/Public/CoreMinimal.h"
+#include "Runtime/Core/Public/Modules/ModuleManager.h"
 
 class FSandBoxManiaCore : public IModuleInterface
 {

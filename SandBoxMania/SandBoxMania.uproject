@@ -5,6 +5,11 @@
 	"Description": "",
 	"Modules": [
 		{
+			"Name": "Global",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
 			"Name": "SandBoxManiaCore",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"

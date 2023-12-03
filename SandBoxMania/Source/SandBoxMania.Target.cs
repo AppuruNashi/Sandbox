@@ -9,5 +9,11 @@ public class SandBoxManiaTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
 		ExtraModuleNames.Add("SandBoxManiaCore");
+		SBX_RegisterModules();
+	}
+
+	private void SBX_RegisterModules()
+	{
+		ExtraModuleNames.AddRange(new string[] { "Global" });
 	}
 }

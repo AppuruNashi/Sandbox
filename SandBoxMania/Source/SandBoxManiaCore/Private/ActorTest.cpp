@@ -1,8 +1,6 @@
-﻿// Fill out your copyright notice in the Description page of Project Settings.
+﻿#include "ActorTest.h"
 
-
-#include "ActorTest.h"
-
+#include "Global/Public/Miscellaneous/Log.h"
 
 // Sets default values
 AActorTest::AActorTest()
@@ -15,7 +13,8 @@ AActorTest::AActorTest()
 void AActorTest::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
+	UE_LOG(LogSandBoxManiaCore, Log, TEXT("ActorTest BeginPlay()"));
 }
 
 // Called every frame

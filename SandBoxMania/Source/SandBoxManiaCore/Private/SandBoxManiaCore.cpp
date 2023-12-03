@@ -1,7 +1,8 @@
-#include "SandBoxManiaCore.h"
-#include "Modules/ModuleManager.h"
+#include "SandBoxManiaCore/Public/SandBoxManiaCore.h"
 
-#include "Log.h"
+#include "Global/Public/Miscellaneous/Log.h"
+
+DEFINE_LOG_CATEGORY(LogSandBoxManiaCore);
 
 void FSandBoxManiaCore::StartupModule()
 {
